@@ -390,8 +390,6 @@ gap: 40px;
 
 .icon-social {
     fill: #f4f4fd;
-    height: 16px;
-    width: 16px;
 }
 
 .icon-link:hover,
@@ -765,7 +763,6 @@ gap: 40px;
 
 .contact-data-label {
     display: block;
-    margin-bottom: 4px;
     color: #8E8F99;
     font-size: 12px;
     line-height: 1.17;
